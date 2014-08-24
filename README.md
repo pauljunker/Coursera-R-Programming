@@ -1,4 +1,1 @@
-Coursera-R-Programming
-======================
-
-Project 2
+#I was not able to complete this project :(. Please just give me a zero. Thanks!
